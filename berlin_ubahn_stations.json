@@ -1,0 +1,902 @@
+[
+        {
+            "name": "Nauener Platz",
+            "reference": "nauener-platz_berlin-u-bahn",
+            "u-lines": [9]
+        },
+        {
+            "name": "Amrumer Straße",
+            "reference": "amrumer-strasse_berlin-u-bahn",
+            "u-lines": [9]
+        },
+        {
+            "name": "Westhafen",
+            "reference": "westhafen_berlin-u-bahn",
+            "u-lines": [9]
+        },
+        {
+            "name": "Birkenstraße",
+            "reference": "birkenstrasse_berlin-u-bahn",
+            "u-lines": [9]
+        },
+        {
+            "name": "Turmstraße",
+            "reference": "turmstrasse_berlin-u-bahn",
+            "u-lines": [9]
+        },
+        {
+            "name": "Hansaplatz",
+            "reference": "hansaplatz_berlin-u-bahn",
+            "u-lines": [9]
+        },
+        {
+            "name": "Güntzelstraße",
+            "reference": "guentzelstrasse_berlin-u-bahn",
+            "u-lines": [9]
+        },
+        {
+            "name": "Bundesplatz",
+            "reference": "bundesplatz_berlin-u-bahn",
+            "u-lines": [9]
+        },
+        {
+            "name": "Friedrich-Wilhelm-Platz",
+            "reference": "friedrich-wilhelm-platz_berlin-u-bahn",
+            "u-lines": [9]
+        },
+        {
+            "name": "Walther-Schreiber-Platz",
+            "reference": "walther-schreiber-platz_berlin-u-bahn",
+            "u-lines": [9]
+        },
+        {
+            "name": "Schloßstraße",
+            "reference": "schlossstrasse_berlin-u-bahn",
+            "u-lines": [9]
+        },
+        {
+            "name": "Rathaus Steglitz",
+            "reference": "rathaus-steglitz_berlin-u-bahn",
+            "u-lines": [9]
+        },
+        {
+            "name": "Wittenau",
+            "reference": "wittenau_berlin-u-bahn",
+            "u-lines": [8]
+        },
+        {
+            "name": "Rathaus Reinickendorf",
+            "reference": "rathaus-reinickendorf_berlin-u-bahn",
+            "u-lines": [8]
+        },
+        {
+            "name": "Karl-Bonhoeffer-Nervenklinik",
+            "reference": "karl-bonhoeffer-nervenklinik_berlin-u-bahn",
+            "u-lines": [8]
+        },
+        {
+            "name": "Lindauer Allee",
+            "reference": "lindauer-allee_berlin-u-bahn",
+            "u-lines": [8]
+        },
+        {
+            "name": "Paracelsus-Bad",
+            "reference": "paracelsus-bad_berlin-u-bahn",
+            "u-lines": [8]
+        },
+        {
+            "name": "Residenzstraße",
+            "reference": "residenzstrasse_berlin-u-bahn",
+            "u-lines": [8]
+        },
+        {
+            "name": "Franz-Neumann-Platz",
+            "reference": "franz-neumann-platz_berlin-u-bahn",
+            "u-lines": [8]
+        },
+        {
+            "name": "Osloer Straße",
+            "reference": "osloer-strasse_berlin-u-bahn",
+            "u-lines": [8, 9]
+        },
+        {
+            "name": "Pankstraße",
+            "reference": "pankstrasse_berlin-u-bahn",
+            "u-lines": [8]
+        },
+        {
+            "name": "Gesundbrunnen",
+            "reference": "gesundbrunnen_berlin-u-bahn",
+            "u-lines": [8]
+        },
+        {
+            "name": "Voltastraße",
+            "reference": "voltastrasse_berlin-u-bahn",
+            "u-lines": [8]
+        },
+        {
+            "name": "Bernauer Straße",
+            "reference": "bernauer-strasse_berlin-u-bahn-berlin-1",
+            "u-lines": [8]
+        },
+        {
+            "name": "Rosenthaler Platz",
+            "reference": "rosenthaler-platz_berlin-u-bahn",
+            "u-lines": [8]
+        },
+        {
+            "name": "Weinmeisterstraße",
+            "reference": "weinmeisterstrasse_berlin-u-bahn",
+            "u-lines": [8]
+        },
+        {
+            "name": "Jannowitzbrücke",
+            "reference": "jannowitzbruecke_berlin-u-bahn",
+            "u-lines": [8]
+        },
+        {
+            "name": "Heinrich-Heine-Straße",
+            "reference": "heinrich-heine-strasse_berlin-u-bahn",
+            "u-lines": [8]
+        },
+        {
+            "name": "Moritzplatz",
+            "reference": "moritzplatz_berlin-u-bahn",
+            "u-lines": [8]
+        },
+        {
+            "name": "Schönleinstraße",
+            "reference": "schoenleinstrasse_berlin-u-bahn",
+            "u-lines": [8]
+        },
+        {
+            "name": "Boddinstraße",
+            "reference": "boddinstrasse_berlin-u-bahn",
+            "u-lines": [8]
+        },
+        {
+            "name": "Leinestraße",
+            "reference": "leinestrasse_berlin-u-bahn",
+            "u-lines": [8]
+        },
+        {
+            "name": "Hermannstraße",
+            "reference": "hermannstrasse_berlin-u-bahn",
+            "u-lines": [8]
+        },
+        {
+            "name": "Rathaus Spandau",
+            "reference": "rathaus-spandau_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Altstadt Spandau",
+            "reference": "altstadt-spandau_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Zitadelle",
+            "reference": "zitadelle_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Haselhorst",
+            "reference": "haselhorst_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Paulsternstraße",
+            "reference": "paulsternstrasse_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Rohrdamm",
+            "reference": "rohrdamm_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Siemensdamm",
+            "reference": "siemensdamm_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Halemweg",
+            "reference": "halemweg_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Jakob-Kaiser-Platz",
+            "reference": "jakob-kaiser-platz_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Jungfernheide",
+            "reference": "jungfernheide_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Mierendorffplatz",
+            "reference": "mierendorffplatz_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Richard-Wagner-Platz",
+            "reference": "richard-wagner-platz_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Wilmersdorfer Straße",
+            "reference": "wilmersdorfer-strasse_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Adenauerplatz",
+            "reference": "adenauerplatz_berlin",
+            "u-lines": [7]
+        },
+        {
+            "name": "Konstanzer Straße",
+            "reference": "konstanzer-strasse_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Blissestraße",
+            "reference": "blissestrasse_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Berliner Straße",
+            "reference": "berliner-strasse_berlin-u-bahn",
+            "u-lines": [7, 9]
+        },
+        {
+            "name": "Eisenacher Straße",
+            "reference": "eisenacher-strasse_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Kleistpark",
+            "reference": "kleistpark_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Yorckstraße",
+            "reference": "yorckstrasse_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Gneisenaustraße",
+            "reference": "gneisenaustrasse_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Südstern",
+            "reference": "suedstern_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Hermannplatz",
+            "reference": "hermannplatz_berlin-u-bahn",
+            "u-lines": [7, 8]
+        },
+        {
+            "name": "Karl-Marx-Straße",
+            "reference": "karl-marx-strasse_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Neukölln",
+            "reference": "neukoelln_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Rathaus Neukölln",
+            "reference": "rathaus-neukolln_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Grenzallee",
+            "reference": "grenzallee_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Blaschkoallee",
+            "reference": "blaschkoallee_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Parchimer Allee",
+            "reference": "parchimer-allee_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Britz-Süd",
+            "reference": "britz-sued_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Johannisthaler Chaussee",
+            "reference": "johannisthaler-chaussee_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Lipschitzallee",
+            "reference": "lipschitzallee_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Wutzkyallee",
+            "reference": "wutzkyallee_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Zwickauer Damm",
+            "reference": "zwickauer-damm_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Rudow",
+            "reference": "rudow_berlin-u-bahn",
+            "u-lines": [7]
+        },
+        {
+            "name": "Alt-Tegel",
+            "reference": "alt-tegel_berlin-u-bahn",
+            "u-lines": [6]
+        },
+        {
+            "name": "Borsigwerke",
+            "reference": "borsigwerke_berlin-u-bahn",
+            "u-lines": [6]
+        },
+        {
+            "name": "Holzhauser Straße",
+            "reference": "holzhauser-strasse_berlin",
+            "u-lines": [6]
+        },
+        {
+            "name": "Otisstraße",
+            "reference": "otisstrasse",
+            "u-lines": [6]
+        },
+        {
+            "name": "Scharnweberstraße",
+            "reference": "scharnweberstrasse",
+            "u-lines": [6]
+        },
+        {
+            "name": "Kurt-Schumacher-Platz",
+            "reference": "kurt-schumacher-platz_berlin-u-bahn",
+            "u-lines": [6]
+        },
+        {
+            "name": "Afrikanische Straße",
+            "reference": "afrikanische-strasse_berlin-u-bahn",
+            "u-lines": [6]
+        },
+        {
+            "name": "Rehberge",
+            "reference": "rehberge_berlin-u-bahn",
+            "u-lines": [6]
+        },
+        {
+            "name": "Seestraße",
+            "reference": "seestrasse_berlin-u-bahn",
+            "u-lines": [6]
+        },
+        {
+            "name": "Leopoldplatz",
+            "reference": "leopoldplatz_berlin-u-bahn",
+            "u-lines": [6, 9]
+        },
+        {
+            "name": "Wedding",
+            "reference": "wedding_berlin-u-bahn",
+            "u-lines": [6]
+        },
+        {
+            "name": "Reinickendorfer Straße",
+            "reference": "reinickendorfer-strasse_berlin-u-bahn",
+            "u-lines": [6]
+        },
+        {
+            "name": "Schwartzkopffstraße",
+            "reference": "schwartzkopffstrasse_berlin-u-bahn",
+            "u-lines": [6]
+        },
+        {
+            "name": "Oranienburger Tor",
+            "reference": "oranienburger-tor_berlin-u-bahn",
+            "u-lines": [6]
+        },
+        {
+            "name": "Friedrichstraße",
+            "reference": "friedrichstrasse_berlin-u-bahn",
+            "u-lines": [6]
+        },
+        {
+            "name": "Französische Straße",
+            "reference": "franzoesische-strasse_berlin-u-bahn",
+            "u-lines": [6]
+        },
+        {
+            "name": "Kochstraße",
+            "reference": "kochstrasse_berlin-u-bahn",
+            "u-lines": [6]
+        },
+        {
+            "name": "Mehringdamm",
+            "reference": "mehringdamm_berlin-u-bahn",
+            "u-lines": [6, 7]
+        },
+        {
+            "name": "Platz der Luftbrücke",
+            "reference": "platz-der-luftbruecke_berlin-u-bahn",
+            "u-lines": [6]
+        },
+        {
+            "name": "Paradestraße",
+            "reference": "paradestrasse_berlin-u-bahn",
+            "u-lines": [6]
+        },
+        {
+            "name": "Tempelhof",
+            "reference": "tempelhof_berlin-u-bahn",
+            "u-lines": [6]
+        },
+        {
+            "name": "Alt-Tempelhof",
+            "reference": "alt-tempelhof_berlin-u-bahn",
+            "u-lines": [6]
+        },
+        {
+            "name": "Kaiserin-Augusta-Straße",
+            "reference": "kaiserin-augusta-strasse_berlin-u-bahn",
+            "u-lines": [6]
+        },
+        {
+            "name": "Naturkundemuseum",
+            "reference": "naturkundemuseum_berlin-u-bahn",
+            "u-lines": [6]
+        },
+        {
+            "name": "Ullsteinstraße",
+            "reference": "ullsteinstrasse_berlin-u-bahn",
+            "u-lines": [6]
+        },
+        {
+            "name": "Westphalweg",
+            "reference": "westphalweg_berlin",
+            "u-lines": [6]
+        },
+        {
+            "name": "Alt-Mariendorf",
+            "reference": "alt-mariendorf_berlin-u-bahn",
+            "u-lines": [6]
+        },
+        {
+            "name": "Rotes Rathaus",
+            "reference": "rotes-rathaus_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Museumsinsel",
+            "reference": "museumsinsel_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Unter den Linden",
+            "reference": "unter-den-linden_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Brandenburger tor",
+            "reference": "brandenburger-tor_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Bundestag",
+            "reference": "bundestag_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Hauptbanhof",
+            "reference": "hauptbanhof_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Schillingstraße",
+            "reference": "schillingstrasse_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Strausberger Platz",
+            "reference": "strausberger-platz_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Weberwiese",
+            "reference": "weberwiese_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Frankfurter Tor",
+            "reference": "frankfurter-tor_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Samariterstraße",
+            "reference": "samariterstrasse_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Frankfurter Allee",
+            "reference": "frankfurter-allee_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Magdalenenstraße",
+            "reference": "magdalenenstrasse_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Lichtenberg",
+            "reference": "lichtenberg_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Friedrichsfelde",
+            "reference": "friedrichsfelde_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Tierpark",
+            "reference": "tierpark_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Biesdorf-Süd",
+            "reference": "biesdorf-sued_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Elsterwerdaer Platz",
+            "reference": "elsterwerdaer-platz_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Wuhletal",
+            "reference": "wuhletal_berlin-u-bahn",
+            "u-lines": [5],
+            "s-lines": [5]
+        },
+        {
+            "name": "Kaulsdorf-Nord",
+            "reference": "kaulsdorf-nord_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Neue Grottkauer Straße",
+            "reference": "neue-grottkauer-strasse_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Cottbusser Platz",
+            "reference": "cottbusser-platz_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Hellersdorf",
+            "reference": "hellersdorf_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Louis-Lewin-Straße",
+            "reference": "louis-lewin-strasse_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Hönow",
+            "reference": "hoenow_berlin-u-bahn",
+            "u-lines": [5]
+        },
+        {
+            "name": "Viktoria-Luise-Platz",
+            "reference": "viktoria-luise-platz_berlin-u-bahn",
+            "u-lines": [4]
+        },
+        {
+            "name": "Bayerischer Platz",
+            "reference": "bayerischer-platz_berlin-u-bahn",
+            "u-lines": [4, 7]
+        },
+        {
+            "name": "Rathaus Schöneberg",
+            "reference": "rathaus-schoeneberg_berlin-u-bahn",
+            "u-lines": [4]
+        },
+        {
+            "name": "Innsbrucker Platz",
+            "reference": "innsbrucker-platz_berlin-u-bahn",
+            "u-lines": [4]
+        },
+        {
+            "name": "Augsburger Straße",
+            "reference": "augsburger-strasse_berlin-u-bahn",
+            "u-lines": [3]
+        },
+        {
+            "name": "Spichernstraße",
+            "reference": "spichernstrasse_berlin-u-bahn",
+            "u-lines": [3, 9]
+        },
+        {
+            "name": "Hohenzollernplatz",
+            "reference": "hohenzollernplatz_berlin-u-bahn",
+            "u-lines": [3]
+        },
+        {
+            "name": "Fehrbelliner Platz",
+            "reference": "fehrbelliner-platz_berlin-u-bahn",
+            "u-lines": [3, 7]
+        },
+        {
+            "name": "Heidelberger Platz",
+            "reference": "heidelberger-platz_berlin-u-bahn",
+            "u-lines": [3]
+        },
+        {
+            "name": "Breitenbachplatz",
+            "reference": "breitenbachplatz_berlin-u-bahn",
+            "u-lines": [3]
+        },
+        {
+            "name": "Podbielskiallee",
+            "reference": "podbielskiallee_berlin-u-bahn",
+            "u-lines": [3]
+        },
+        {
+            "name": "Dahlem-Dorf",
+            "reference": "dahlem-dorf_berlin-u-bahn",
+            "u-lines": [3]
+        },
+        {
+            "name": "Thielplatz",
+            "reference": "thielplatz_berlin-u-bahn",
+            "u-lines": [3]
+        },
+        {
+            "name": "Oskar-Helene-Heim",
+            "reference": "oskar-helene-heim_berlin-u-bahn",
+            "u-lines": [3]
+        },
+        {
+            "name": "Rüdesheimer Platz",
+            "reference": "rudesheimer_platz_berlin-u-bahn",
+            "u-lines": [3]
+        },
+        {
+            "name": "Onkel Toms Hütte",
+            "reference": "onkel-toms-huette_berlin-u-bahn",
+            "u-lines": [3]
+        },
+        {
+            "name": "Krumme Lanke",
+            "reference": "krumme-lanke_berlin-u-bahn",
+            "u-lines": [3]
+        },
+        {
+            "code": "WA",
+            "name": "Warschauer Straße",
+            "reference": "warschauer-strasse_berlin-u-bahn",
+            "u-lines": [1]
+        },
+        {
+            "code": "S",
+            "name": "Schlesisches Tor",
+            "reference": "schlesisches-tor_berlin-u-bahn",
+            "u-lines": [1]
+        },
+        {
+            "code": "Gr",
+            "name": "Görlitzer Bahnhof",
+            "reference": "goerlitzer-bahnhof_berlin-u-bahn",
+            "u-lines": [1]
+        },
+        {
+            "code": "Kbo",
+            "name": "Kottbusser Tor",
+            "reference": "kottbusser-tor_berlin-u-bahn",
+            "u-lines": [1, 8]
+        },
+        {
+            "code": "Pr",
+            "name": "Prinzenstraße",
+            "reference": "prinzenstrasse_berlin-u-bahn",
+            "u-lines": [1]
+        },
+        {
+            "code": "Ho",
+            "name": "Hallesches Tor",
+            "reference": "hallesches-tor_berlin-u-bahn",
+            "u-lines": [1, 6]
+        },
+        {
+            "code": "Mo",
+            "name": "Möckernbrücke",
+            "reference": "moeckernbruecke_berlin-u-bahn-berlin-1",
+            "u-lines": [1, 7]
+        },
+        {
+            "code": "Go",
+            "name": "Gleisdreieck",
+            "reference": "gleisdreieck_berlin-u-bahn",
+            "u-lines": [1, 2]
+        },
+        {
+            "code": "Kus",
+            "name": "Kurfürstenstraße",
+            "reference": "kurfuerstenstrasse_berlin-u-bahn",
+            "u-lines": [1]
+        },
+        {
+            "code": "Nu/Nm",
+            "name": "Nollendorfplatz",
+            "reference": "nollendorfplatz_berlin-u-bahn",
+            "u-lines": [1, 2, 3, 4]
+        },
+        {
+            "code": "Wt",
+            "name": "Wittenbergplatz",
+            "reference": "wittenbergplatz_berlin-u-bahn",
+            "u-lines": [1, 2, 3]
+        },
+        {
+            "code": "Kfo",
+            "name": "Kurfürstendamm",
+            "reference": "kurfuerstendamm_berlin-u-bahn",
+            "u-lines": [1, 9]
+        },
+        {
+            "code": "U",
+            "name": "Uhlandstraße",
+            "reference": "uhlandstrasse_berlin-u-bahn",
+            "u-lines": [1]
+        },
+        {
+            "name": "Pankow",
+            "reference": "pankow_berlin-u-bahn",
+            "u-lines": [2],
+            "s-lines": [2, 8, 9]
+        },
+        {
+            "name": "Vinetastraße",
+            "reference": "vinetastrasse_berlin-u-bahn",
+            "u-lines": [2]
+        },
+        {
+            "name": "Schönhauser Allee",
+            "reference": "schoenhauser-allee_berlin-u-bahn",
+            "u-lines": [2],
+            "s-lines": [41, 42, 8, 85, 9]
+        },
+        {
+            "name": "Eberswalder Straße",
+            "reference": "eberswalder-strasse_berlin-u-bahn",
+            "u-lines": [2]
+        },
+        {
+            "name": "Senefelderplatz",
+            "reference": "senefelderplatz_berlin-u-bahn",
+            "u-lines": [2]
+        },
+        {
+            "name": "Rosa-Luxemburg-Platz",
+            "reference": "rosa-luxemburg-platz_berlin-u-bahn",
+            "u-lines": [2]
+        },
+        {
+            "name": "Alexanderplatz",
+            "reference": "alexanderplatz_berlin-u-bahn",
+            "s-lines": [3, 5, 7, 75],
+            "u-lines": [2, 5, 8]
+        },
+        {
+            "name": "Klosterstraße",
+            "reference": "klosterstrasse_berlin-u-bahn",
+            "u-lines": [2]
+        },
+        {
+            "name": "Märkisches Museum",
+            "reference": "maerkisches-museum_berlin-u-bahn",
+            "u-lines": [2]
+        },
+        {
+            "name": "Spittelmarkt",
+            "reference": "spittelmarkt_berlin-u-bahn",
+            "u-lines": [2]
+        },
+        {
+            "name": "Hausvogteiplatz",
+            "reference": "hausvogteiplatz_berlin-u-bahn",
+            "u-lines": [2]
+        },
+        {
+            "name": "Stadtmitte",
+            "reference": "stadtmitte_berlin-u-bahn",
+            "u-lines": [2, 6]
+        },
+        {
+            "name": "Mohrenstraße",
+            "reference": "mohrenstrasse_berlin-u-bahn",
+            "u-lines": [2]
+        },
+        {
+            "name": "Potsdamer Platz",
+            "reference": "potsdamer-platz_berlin-u-bahn",
+            "u-lines": [2],
+            "s-lines": [1, 2, 25]
+        },
+        {
+            "name": "Mendelssohn-Bartholdy-Park",
+            "reference": "mendelssohn-bartholdy-park_berlin-u-bahn",
+            "u-lines": [2]
+        },
+        {
+            "name": "Bülowstraße",
+            "reference": "buelowstrasse_berlin-u-bahn",
+            "u-lines": [2]
+        },
+        {
+            "name": "Zoologischer Garten",
+            "reference": "zoologischer-garten_berlin-u-bahn",
+            "s-lines": [3, 5, 7, 75],
+            "u-lines": [2, 9]
+        },
+        {
+            "name": "Ernst-Reuter-Platz",
+            "reference": "ernst-reuter-platz_berlin-u-bahn",
+            "u-lines": [2]
+        },
+        {
+            "name": "Deutsche Oper",
+            "reference": "deutsche-oper_berlin-u-bahn",
+            "u-lines": [2]
+        },
+        {
+            "name": "Bismarckstraße",
+            "reference": "bismarckstrasse_berlin-u-bahn",
+            "u-lines": [2, 7]
+        },
+        {
+            "name": "Sophie-Charlotte-Platz",
+            "reference": "sophie-charlotte-platz_berlin-u-bahn",
+            "u-lines": [2]
+        },
+        {
+            "name": "Kaiserdamm",
+            "reference": "kaiserdamm",
+            "u-lines": [2],
+            "s-lines": [41, 42, 46]
+        },
+        {
+            "name": "Theodor-Heuss-Platz",
+            "reference": "theodor-heuss-platz_berlin-u-bahn",
+            "u-lines": [2]
+        },
+        {
+            "name": "Neu-Westend",
+            "reference": "neu-westend_berlin-u-bahn",
+            "u-lines": [2]
+        },
+        {
+            "name": "Olympia-Stadion",
+            "reference": "olympia-stadion_berlin-u-bahn",
+            "u-lines": [2]
+        },
+        {
+            "name": "Ruhleben",
+            "reference": "ruhleben_berlin-u-bahn",
+            "u-lines": [2]
+        }
+]

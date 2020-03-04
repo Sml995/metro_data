@@ -1,0 +1,405 @@
+[
+        {
+            "name": "Wannsee",
+            "reference": "wannsee_berlin-s-bahn",
+            "s-lines": [1, 7]
+        },
+        {
+            "name": "Nikolassee",
+            "reference": "nikolassee_berlin-s-bahn",
+            "s-lines": [1, 7]
+        },
+        {
+            "name": "Schlachtensee",
+            "reference": "schlachtensee_berlin-s-bahn",
+            "s-lines": [1]
+        },
+        {
+            "name": "Mexikoplatz",
+            "reference": "mexikoplatz_berlin-s-bahn",
+            "s-lines": [1]
+        },
+        {
+            "name": "Zehlendorf",
+            "reference": "zehlendorf_berlin-s-bahn",
+            "s-lines": [1]
+        },
+        {
+            "name": "Sundgauer Straße",
+            "reference": "sundgauer_strabe_berlin-s-bahn",
+            "s-lines": [1]
+        },
+        {
+            "name": "Lichterfelde West",
+            "reference": "lichterfelde_west_berlin-s-bahn",
+            "s-lines": [1]
+        },
+        {
+            "name": "Botanischer Garten",
+            "reference": "botanischer_garten_berlin-s-bahn",
+            "s-lines": [1]
+        },
+        {
+            "name": "Rathaus Steglitz",
+            "reference": "rathaus_steglitz_berlin-s-bahn",
+            "s-lines": [1],
+            "u-lines": [9]
+        },
+        {
+            "name": "Feuerbachstraße",
+            "reference": "feuerbachstrabe_berlin-s-bahn",
+            "s-lines": [1]
+        },
+        {
+            "name": "Friedenau",
+            "reference": "friedenau_berlin-s-bahn",
+            "s-lines": [1]
+        },
+        {
+            "name": "Schöneberg",
+            "reference": "schoneberg_berlin-s-bahn",
+            "s-lines": [1, 41, 42, 46]
+        },
+        {
+            "name": "Julius-Leber-Brücke",
+            "reference": "julius_leber_brucke_berlin-s-bahn",
+            "s-lines": [1]
+        },
+        {
+            "name": "Yorckstraße (Großgörschenstraße)",
+            "reference": "yorckstrabe_grobgorschenstrabe_berlin-s-bahn",
+            "s-lines": [1],
+            "u-lines": [7]
+        },
+        {
+            "name": "Anhalter Bahnhof",
+            "reference": "anhalter_bahnhof_berlin-s-bahn",
+            "s-lines": [1, 2, 25, 26]
+        },
+        {
+            "name": "Potsdamer Platz",
+            "reference": "potsdamer_platz_berlin-s-bahn",
+            "s-lines": [1, 2, 25, 26],
+            "u-lines": [2]
+        },
+        {
+            "name": "Brandenburger Tor",
+            "reference": "brandenburger_tor_berlin-s-bahn",
+            "s-lines": [1, 2, 25, 26]
+        },
+        {
+            "name": "Friedrichstraße",
+            "reference": "friedrichstrabe_berlin-s-bahn",
+            "s-lines": [1, 2, 25, 26, 3, 5, 7, 9],
+            "u-lines": [6]
+        },
+        {
+            "name": "Oranienburger Straße",
+            "reference": "oranienburger_strabe_berlin-s-bahn",
+            "s-lines": [1, 2, 25, 26]
+        },
+        {
+            "name": "Nordbahnhof",
+            "reference": "nordbahnhof_berlin-s-bahn",
+            "s-lines": [1, 2, 25, 26]
+        },
+        {
+            "name": "Humboldthain",
+            "reference": "humboldthain_berlin-s-bahn",
+            "s-lines": [1, 2, 25, 26]
+        },
+        {
+            "name": "Gesundbrunnen",
+            "reference": "gesundbrunnen_berlin-s-bahn",
+            "s-lines": [1, 2, 25, 26, 41, 42],
+            "u-lines": [8]
+        },
+        {
+            "name": "Bornholmer Straße",
+            "reference": "bornholmer_strabe_berlin-s-bahn",
+            "s-lines": [1, 2, 25, 26, 8, 85]
+        },
+        {
+            "name": "Wollankstraße",
+            "reference": "wollankstrabe_berlin-s-bahn",
+            "s-lines": [1, 25, 26]
+        },
+        {
+            "name": "Schönholz",
+            "reference": "schonholz_berlin-s-bahn",
+            "s-lines": [1, 25, 26]
+        },
+        {
+            "name": "Wilhelmsruh",
+            "reference": "wilhelmsruh_berlin-s-bahn",
+            "s-lines": [1, 26]
+        },
+        {
+            "name": "Wittenau",
+            "reference": "wittenau_berlin-s-bahn",
+            "s-lines": [1, 26],
+            "u-lines": [8]
+        },
+        {
+            "name": "Waidmannslust",
+            "reference": "waidmannslust_berlin-s-bahn",
+            "s-lines": [1, 26]
+        },
+        {
+            "name": "Hermsdorf",
+            "reference": "hermsdorf_berlin-s-bahn",
+            "s-lines": [1]
+        },
+        {
+            "name": "Frohnau",
+            "reference": "frohnau_berlin-s-bahn",
+            "s-lines": [1]
+        },
+        {
+            "name": " Hohen Neuendorf",
+            "reference": "hohen_neuendorf_berlin-s-bahn",
+            "s-lines": [1, 8]
+        },
+        {
+            "name": "Birkenwerder",
+            "reference": "birkenwerder_berlin-s-bahn",
+            "s-lines": [1, 8]
+        },
+        {
+            "name": "Borgsdorf",
+            "reference": "borgsdorf_berlin-s-bahn",
+            "s-lines": [1]
+        },
+        {
+            "name": "Lehnitz",
+            "reference": "lehnitz_berlin-s-bahn",
+            "s-lines": [1]
+        },
+        {
+            "name": "Oranienburg",
+            "reference": "oranienburg_berlin-s-bahn",
+            "s-lines": [1]
+        },
+        {
+            "name": "Treptower Park",
+            "reference": "treptower_park_berlin-s-bahn",
+            "s-lines": [41, 42, 8, 85, 9]
+        },
+        {
+            "name": "Ostkreuz",
+            "reference": "ostkreuz_berlin-s-bahn",
+            "s-lines": [41, 42, 3, 5, 7, 75, 8, 85]
+        },
+        {
+            "name": "Warschauer Straße",
+            "reference": "warschauer-strabe_berlin-s-bahn",
+            "s-lines": [3, 5, 7, 75, 9],
+            "u-lines": [1, 3]
+        },
+        {
+            "name": "Ostbahnhof",
+            "reference": "ostbahnhof_berlin-s-bahn",
+            "s-lines": [3, 5, 7, 9]
+        },
+        {
+            "name": "Jannowitzbrücke",
+            "reference": "jannowitzbrucke_berlin-s-bahn",
+            "s-lines": [3, 5, 7, 9],
+            "u-lines": [8]
+        },
+        {
+            "name": "Alexanderplatz",
+            "reference": "alexanderplatz_berlin-s-bahn",
+            "s-lines": [3, 5, 7, 9],
+            "u-lines": [2, 5, 8]
+        },
+        {
+            "name": "Hackescher Markt",
+            "reference": "hackescher_markt_berlin-s-bahn",
+            "s-lines": [3, 5, 7, 9]
+        },
+        {
+            "name": "Hauptbahnhof",
+            "reference": "hauptbahnhof_berlin-s-bahn",
+            "s-lines": [3, 5, 7, 9],
+            "u-lines": [5]
+        },
+        {
+            "name": "Bellevue",
+            "reference": "bellevue_berlin-s-bahn",
+            "s-lines": [3, 5, 7, 9]
+        },
+        {
+            "name": "Tiergarten",
+            "reference": "tiergarten_berlin-s-bahn",
+            "s-lines": [3, 5, 7, 9]
+        },
+        {
+            "name": "Zoologischer Garten",
+            "reference": "zoologischer_garten_berlin-s-bahn",
+            "s-lines": [3, 5, 7, 9],
+            "u-lines": [2, 9]
+        },
+        {
+            "name": "Savignyplatz",
+            "reference": "savignyplatz_berlin-s-bahn",
+            "s-lines": [3, 5, 7, 9]
+        },
+        {
+        
+            "name": "Charlottenburg",
+            "reference": "charlottenburg_berlin-s-bahn",
+            "s-lines": [3, 5, 7, 9],
+            "u-lines": [7]
+        },
+        {
+        
+            "name": "Westkreuz",
+            "reference": "westkreuz_berlin-s-bahn",
+            "s-lines": [3, 5, 7, 9, 41, 42, 46]
+        },
+        {
+        
+            "name": "Schönhauser Allee",
+            "reference": "schonhauser_allee_berlin-s-bahn",
+            "s-lines": [41, 42, 8, 85],
+            "u-lines": [2]
+        },
+        {
+        
+            "name": "Prenzlauer Allee",
+            "reference": "prenzlauer_allee_berlin-s-bahn",
+            "s-lines": [41, 42, 8, 85]
+        },
+        {
+        
+            "name": "Greifswalder Straße",
+            "reference": "greifswalder_strabe_berlin-s-bahn",
+            "s-lines": [41, 42, 8, 85]
+        },
+        {
+        
+            "name": "Landsberger Allee",
+            "reference": "landsberger_allee_berlin-s-bahn",
+            "s-lines": [41, 42, 8, 85]
+        },
+        {
+        
+            "name": "Storkower Straße",
+            "reference": "storkower_strabe_allee_berlin-s-bahn",
+            "s-lines": [41, 42, 8, 85]
+        },
+        {
+        
+            "name": "Frankfurter Allee",
+            "reference": "frankfurter_allee_berlin-s-bahn",
+            "s-lines": [41, 42, 8, 85],
+            "u-lines": [5]
+        },
+        {
+        
+            "name": "Sonnenallee",
+            "reference": "sonnenallee_berlin-s-bahn",
+            "s-lines": [41, 42]
+        },
+        {
+        
+            "name": "Neukölln",
+            "reference": "neukolln_berlin-s-bahn",
+            "s-lines": [41, 42, 45, 46, 47],
+            "u-lines": [7]
+        },
+        {
+        
+            "name": "Hermannstraße",
+            "reference": "hermannstrabe_berlin-s-bahn",
+            "s-lines": [41, 42, 45, 46, 47],
+            "u-lines": [8]
+        },
+        {
+        
+            "name": "Tempelhof",
+            "reference": "tempelhof_berlin-s-bahn",
+            "s-lines": [41, 42, 45, 46],
+            "u-lines": [6]
+        },
+        {
+        
+            "name": "Südkreuz",
+            "reference": "sudkreuz_berlin-s-bahn",
+            "s-lines": [2, 25, 26, 41, 42, 45, 46]
+        },
+        {
+        
+            "name": "Innsbrucker Platz",
+            "reference": "innsbrucker_platz_berlin-s-bahn",
+            "s-lines": [41, 42, 46],
+            "u-lines": [4]
+        },
+        {
+        
+            "name": "Bundesplatz",
+            "reference": "bundesplatz_berlin-s-bahn",
+            "s-lines": [41, 42, 46],
+            "u-lines": [9]
+        },
+        {
+        
+            "name": "Heidelberger Platz",
+            "reference": "heidelberger_platz_berlin-s-bahn",
+            "s-lines": [41, 42, 46],
+            "u-lines": [3]
+        },
+        {
+        
+            "name": "Hohenzollerndamm",
+            "reference": "hohenzollerndamm_berlin-s-bahn",
+            "s-lines": [41, 42, 46]
+        },
+        {
+        
+            "name": "Halensee",
+            "reference": "halensee_berlin-s-bahn",
+            "s-lines": [41, 42, 46]
+        },
+        {
+        
+            "name": "Messe Nord / ICC (Witzleben)",
+            "reference": "messe_nord_icc_witzleben_berlin-s-bahn",
+            "s-lines": [41, 42, 46],
+            "u-lines": [2]
+        },
+        {
+        
+            "name": "Westend",
+            "reference": "westend_berlin-s-bahn",
+            "s-lines": [41, 42, 46]
+        },
+        {
+        
+            "name": "Jungfernheide",
+            "reference": "jungfernheide_berlin-s-bahn",
+            "s-lines": [41, 42],
+            "u-lines": [7]
+        },
+        {
+        
+            "name": "Beusselstraße",
+            "reference": "beusselstrabe_berlin-s-bahn",
+            "s-lines": [41, 42]
+        },
+        {
+        
+            "name": "Westhafen",
+            "reference": "westhafen_berlin-s-bahn",
+            "s-lines": [41, 42],
+            "u-lines": [9]
+        },
+        {
+        
+            "name": "Wedding",
+            "reference": "wedding_berlin-s-bahn",
+            "s-lines": [41, 42],
+            "u-lines": [6]
+        },
+]
