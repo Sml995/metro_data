@@ -85,7 +85,8 @@
         {
             "name": "Brandenburger Tor",
             "reference": "brandenburger_tor_berlin-s-bahn",
-            "s-lines": [1, 2, 25, 26]
+            "s-lines": [1, 2, 25, 26],
+            "u-lines": [5]
         },
         {
             "name": "Friedrichstraße",
@@ -179,6 +180,12 @@
             "name": "Oranienburg",
             "reference": "oranienburg_berlin-s-bahn",
             "s-lines": [1]
+        },
+        {
+            "name": "Yorckstraße",
+            "reference": "yorckstrabe_berlin-s-bahn",
+            "s-lines": [2, 25, 26],
+            "u-lines": [7]
         },
         {
             "name": "Treptower Park",

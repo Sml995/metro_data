@@ -1,8 +1,8 @@
 [
         {
             "id": 1,
-            "background-color": "#29a60a",
-            "color": "white",
+            "background_color": "#29a60a",
+            "text_color": "#FFFFFF",
             "name": "U1",
             "stations": [
                 { "id": 1, "reference": "warschauer-strasse_berlin-u-bahn"},
@@ -11,7 +11,7 @@
                 { "id": 4, "reference": "kottbusser-tor_berlin-u-bahn"},
                 { "id": 5, "reference": "prinzenstrasse_berlin-u-bahn"},
                 { "id": 6, "reference": "hallesches-tor_berlin-u-bahn"},
-                { "id": 7, "reference": "moeckernbruecke_berlin-u-bahn-berlin-1"},
+                { "id": 7, "reference": "moeckernbruecke_berlin-u-bahn"},
                 { "id": 8, "reference": "gleisdreieck_berlin-u-bahn"},
                 { "id": 9, "reference": "kurfuerstenstrasse_berlin-u-bahn"},
                 { "id": 10, "reference": "nollendorfplatz_berlin-u-bahn"},
@@ -23,8 +23,8 @@
         },
         {
             "id": 2,
-            "background-color": "#f30a00",
-            "color": "white",
+            "background_color": "#f30a00",
+            "text_color": "#FFFFFF",
             "name": "U2",
             "stations": [
                 { "id": 1, "reference": "pankow_berlin-u-bahn"},
@@ -39,7 +39,7 @@
                 { "id": 10, "reference": "spittelmarkt_berlin-u-bahn"},
                 { "id": 11, "reference": "hausvogteiplatz_berlin-u-bahn"},
                 { "id": 12, "reference": "stadtmitte_berlin-u-bahn"},
-                { "id": 13, "reference": "mohrenstrasse_berlin-u-bahn"},
+                { "id": 13, "reference": "glinkastrasse_berlin-u-bahn"},
                 { "id": 14, "reference": "potsdamer-platz_berlin-u-bahn"},
                 { "id": 15, "reference": "mendelssohn-bartholdy-park_berlin-u-bahn"},
                 { "id": 16, "reference": "gleisdreieck_berlin-u-bahn"},
@@ -51,7 +51,7 @@
                 { "id": 22, "reference": "deutsche-oper_berlin-u-bahn"},
                 { "id": 23, "reference": "bismarckstrasse_berlin-u-bahn"},
                 { "id": 24, "reference": "sophie-charlotte-platz_berlin-u-bahn"},
-                { "id": 25, "reference": "kaiserdamm"},
+                { "id": 25, "reference": "kaiserdamm_berlin-u-bahn"},
                 { "id": 26, "reference": "theodor-heuss-platz_berlin-u-bahn"},
                 { "id": 27, "reference": "neu-westend_berlin-u-bahn"},
                 { "id": 28, "reference": "olympia-stadion_berlin-u-bahn"},
@@ -60,32 +60,41 @@
         },
         {
             "id": 3,
-            "background-color": "#0c9373",
-            "color": "white",
+            "background_color": "#0c9373",
+            "text_color": "#FFFFFF",
             "name": "U3",
             "stations": [
-                { "id": 1, "reference": "nollendorfplatz_berlin-u-bahn"},
-                { "id": 2, "reference": "wittenbergplatz_berlin-u-bahn"},
-                { "id": 3, "reference": "augsburger-strasse_berlin-u-bahn"},
-                { "id": 4, "reference": "spichernstrasse_berlin-u-bahn"},
-                { "id": 5, "reference": "hohenzollernplatz_berlin-u-bahn"},
-                { "id": 6, "reference": "fehrbelliner-platz_berlin-u-bahn"},
-                { "id": 7, "reference": "heidelberger-platz_berlin-u-bahn"},
-                { "id": 8, "reference": "rudesheimer_platz_berlin-u-bahn"},
-                { "id": 9, "reference": "breitenbachplatz_berlin-u-bahn"},
-                { "id": 10, "reference": "podbielskiallee_berlin-u-bahn"},
-                { "id": 11, "reference": "dahlem-dorf_berlin-u-bahn"},
-                { "id": 12, "reference": "thielplatz_berlin-u-bahn"},
-                { "id": 13, "reference": "oskar-helene-heim_berlin-u-bahn"},
-                { "id": 14, "reference": "onkel-toms-huette_berlin-u-bahn"},
-                { "id": 15, "reference": "krumme-lanke_berlin-u-bahn"}
+                { "id": 1, "reference": "warschauer-strasse_berlin-u-bahn"},
+                { "id": 2, "reference": "schlesisches-tor_berlin-u-bahn"},
+                { "id": 3, "reference": "goerlitzer-bahnhof_berlin-u-bahn"},
+                { "id": 4, "reference": "kottbusser-tor_berlin-u-bahn"},
+                { "id": 5, "reference": "prinzenstrasse_berlin-u-bahn"},
+                { "id": 6, "reference": "hallesches-tor_berlin-u-bahn"},
+                { "id": 7, "reference": "moeckernbruecke_berlin-u-bahn"},
+                { "id": 8, "reference": "gleisdreieck_berlin-u-bahn"},
+                { "id": 9, "reference": "kurfuerstenstrasse_berlin-u-bahn"},
+                { "id": 10, "reference": "nollendorfplatz_berlin-u-bahn"},
+                { "id": 11, "reference": "wittenbergplatz_berlin-u-bahn"},
+                { "id": 12, "reference": "augsburger-strasse_berlin-u-bahn"},
+                { "id": 13, "reference": "spichernstrasse_berlin-u-bahn"},
+                { "id": 14, "reference": "hohenzollernplatz_berlin-u-bahn"},
+                { "id": 15, "reference": "fehrbelliner-platz_berlin-u-bahn"},
+                { "id": 16, "reference": "heidelberger-platz_berlin-u-bahn"},
+                { "id": 17, "reference": "rudesheimer_platz_berlin-u-bahn"},
+                { "id": 18, "reference": "breitenbachplatz_berlin-u-bahn"},
+                { "id": 19, "reference": "podbielskiallee_berlin-u-bahn"},
+                { "id": 20, "reference": "dahlem-dorf_berlin-u-bahn"},
+                { "id": 21, "reference": "thielplatz_berlin-u-bahn"},
+                { "id": 22, "reference": "oskar-helene-heim_berlin-u-bahn"},
+                { "id": 23, "reference": "onkel-toms-huette_berlin-u-bahn"},
+                { "id": 24, "reference": "krumme-lanke_berlin-u-bahn"}
                 
             ]
         },
         {
             "id": 4,
-            "background-color": "#f6d013",
-            "color": "black",
+            "background_color": "#f6d013",
+            "text_color": "#000000",
             "name": "U4",
             "stations": [
                 { "id": 1, "reference": "nollendorfplatz_berlin-u-bahn"},
@@ -98,11 +107,11 @@
         },
         {
             "id": 5,
-            "background-color": "#6b280c",
-            "color": "white",
+            "background_color": "#6b280c",
+            "text_color": "#FFFFFF",
             "name": "U5",
             "stations": [
-                { "id": 1, "reference": "hauptbanhof_berlin-u-bahn"},
+                { "id": 1, "reference": "hauptbahnhof_berlin-u-bahn"},
                 { "id": 2, "reference": "bundestag_berlin-u-bahn"},
                 { "id": 3, "reference": "brandenburger-tor_berlin-u-bahn"},
                 { "id": 4, "reference": "unter-den-linden_berlin-u-bahn"},
@@ -132,8 +141,8 @@
         },
         {
             "id": 6,
-            "background-color": "#72479c",
-            "color": "white",
+            "background_color": "#72479c",
+            "text_color": "#FFFFFF",
             "name": "U6",
             "stations": [
                 { "id": 1, "reference": "alt-tegel_berlin-u-bahn"},
@@ -169,8 +178,8 @@
         },
         {
             "id": 7,
-            "background-color": "#018cbe",
-            "color": "white",
+            "background_color": "#018cbe",
+            "text_color": "#FFFFFF",
             "name": "U7",
             "stations": [
                 { "id": 1, "reference": "rathaus-spandau_berlin-u-bahn"},
@@ -196,7 +205,7 @@
                 { "id": 21, "reference": "eisenacher-strasse_berlin-u-bahn"},
                 { "id": 22, "reference": "kleistpark_berlin-u-bahn"},
                 { "id": 23, "reference": "yorckstrasse_berlin-u-bahn"},
-                { "id": 24, "reference": "moeckernbruecke_berlin-u-bahn-berlin-1"},
+                { "id": 24, "reference": "moeckernbruecke_berlin-u-bahn"},
                 { "id": 25, "reference": "mehringdamm_berlin-u-bahn"},
                 { "id": 26, "reference": "gneisenaustrasse_berlin-u-bahn"},
                 { "id": 27, "reference": "suedstern_berlin-u-bahn"},
@@ -217,8 +226,8 @@
         },
         {
             "id": 8,
-            "background-color": "#003986",
-            "color": "white",
+            "background_color": "#003986",
+            "text_color": "#FFFFFF",
             "name": "U8",
             "stations": [
                 { "id": 1, "reference": "wittenau_berlin-u-bahn"},
@@ -250,8 +259,8 @@
         },
         {
             "id": 9,
-            "background-color": "#f56709",
-            "color": "white",
+            "background_color": "#f56709",
+            "text_color": "#FFFFFF",
             "name": "U9",
             "stations": [
                 { "id": 1, "reference": "osloer-strasse_berlin-u-bahn"},
